@@ -1,0 +1,11 @@
+Kullanýcý bilgileri C:User\Desktop dizininde oluþan metin belgesinde tutulacaktýr.
+Programýn düzgün bir þekilde çalýþmasý için ayný dizinde yönetici.txt'nin bulunmasý lazým.
+urunler.txt yönetici giriþi ile ürün ekleme sonrasýnda otomatik oluþacaktýr.
+
+Örnek Yönetici Bilgileri
+Kullanýcý Adý:Admin
+Parola: passwordSample
+-----------------------
+Örnek Kullanýcý Bilgileri
+Kullanýcý Adý:k1
+Parola: passKullanici
